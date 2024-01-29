@@ -27,7 +27,7 @@ Enhances agricultural productivity by facilitating targeted interventions.
 **Usage**
 **Clone the Repository:**
 bash
-git clone https://github.com/yourusername/plant-leaf-disease-prediction.git
+git clone https://github.com/Sujii-2512/plant-leaf-disease-prediction.git
 
 **Set up the Environment:**
 Install the required dependencies and libraries (mention them in a requirements.txt file).
